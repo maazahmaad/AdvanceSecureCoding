@@ -1,4 +1,4 @@
-<img src="Securecoding.jpg" alt="Flowers in hacktoberfest">
+<img src="Securecoding.jpg" alt="Secure coding">
 
 <h1 align="center"> Welcome to Advance Secure Coding </h1>
 
@@ -45,8 +45,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or feedback, feel free to reach out:
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: maazahmad8470@gmail.com
+- LinkedIn: [@yourhandle](https://www.linkedin.com/in/maazahmaad/)
 
 ---
 
