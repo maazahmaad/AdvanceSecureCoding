@@ -1,1 +1,1 @@
-<img src="Securecoding" alt="Flowers in hacktoberfest">
+<img src="Securecoding.jpg" alt="Flowers in hacktoberfest">
