@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Security Exercise</title>
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Secure Form</h1>
+
+    <form id="secureForm" method="post" action="process_login.php">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username">
+        <span class="error"><?php if(isset($_GET['usernameError'])) { echo $_GET['usernameError']; } ?></span>
+
+        <br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password">
+        <span class="error"><?php if(isset($_GET['passwordError'])) { echo $_GET['passwordError']; } ?></span>
+
+        <br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
