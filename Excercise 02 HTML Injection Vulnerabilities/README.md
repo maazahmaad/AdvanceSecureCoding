@@ -94,3 +94,27 @@ Here is a brief explanation of the code:
     <p>Explore our secure content and services.</p>
 </body>
 </html>
+
+## Additional Resources
+
+- [OWASP Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)
+- [Secure Coding Guidelines](https://www.securecoding.cert.org/confluence/display/seccode/Home)
+
+## Contributing
+
+Contributions to enhance this exercise or add more exercises are welcome! Fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+- Email: maazahmad8470@gmail.com
+- LinkedIn: [@maazahmad](https://www.linkedin.com/in/maazahmaad/)
+
+---
+
+This README.md template provides a structured approach to introduce your exercise, guide users through setup and implementation, and encourage contributions and further learning. Adjust the content to fit the specifics of your exercise and repository as needed.
+
