@@ -65,7 +65,6 @@ Contact
 
 Feel free to reach out if you have any questions or suggestions!
 
-    - **Maaz Ahmad**
 - [GitHub](https://github.com/maazahmaad)
 - [LinkedIn](https://linkedin.com/in/maazahmaad)
 - [Email](mailto:maazahmad8470@gmail.com)
