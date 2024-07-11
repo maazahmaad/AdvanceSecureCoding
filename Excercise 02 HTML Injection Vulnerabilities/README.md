@@ -94,7 +94,7 @@ Here is a brief explanation of the code:
     <p>Explore our secure content and services.</p>
 </body>
 </html>
-
+---
 ## Additional Resources
 
 - [OWASP Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)
