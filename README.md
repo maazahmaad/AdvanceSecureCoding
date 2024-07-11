@@ -30,3 +30,44 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/AdvanceSecureCoding.git
+
+
+
+## Exercises
+
+We provide daily exercises that cover a wide range of topics in secure coding and cybersecurity. Each exercise is designed to be challenging yet achievable, helping you build a solid foundation in cybersecurity.
+Current Focus: HTML Injection
+
+Check out our HTML Injection exercises to start practicing.
+Resources
+
+Here are some valuable resources to complement your learning:
+
+    TryHackMe
+    OWASP
+    Hack The Box
+    Cybrary
+
+Contributing
+
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
+
+    Fork the repository
+    Create a new branch (git checkout -b feature/YourFeature)
+    Commit your changes (git commit -m 'Add some feature')
+    Push to the branch (git push origin feature/YourFeature)
+    Open a pull request
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+    Maaz Ahmad
+    GitHub
+    LinkedIn
+    Email
+
+Join us and let's advance our secure coding skills together!
