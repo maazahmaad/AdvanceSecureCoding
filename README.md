@@ -48,7 +48,7 @@ Here are some valuable resources to complement your learning:
 - [Hack The Box](https://www.hackthebox.eu)
 - [Cybrary](https://www.cybrary.it)
 
-Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
@@ -58,16 +58,16 @@ We welcome contributions from the community! If you'd like to contribute, please
     Push to the branch (git push origin feature/YourFeature)
     Open a pull request
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
 
 Feel free to reach out if you have any questions or suggestions!
 
-    Maaz Ahmad
-    GitHub
-    LinkedIn
-    Email
+    - **Maaz Ahmad**
+- [GitHub](https://github.com/maazahmaad)
+- [LinkedIn](https://linkedin.com/in/maazahmaad)
+- [Email](mailto:maazahmad8470@gmail.com)
 
 Join us and let's advance our secure coding skills together!
