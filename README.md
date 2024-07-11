@@ -39,11 +39,12 @@ We provide daily exercises that cover a wide range of topics in secure coding an
 Current Focus: HTML Injection
 
 Check out our HTML Injection exercises to start practicing.
-Resources
+## Resources
 
 Here are some valuable resources to complement your learning:
 
-    TryHackMe
+    - [TryHackMe](#https://tryhackme.com/)
+    - [About](#about)
     OWASP
     Hack The Box
     Cybrary
