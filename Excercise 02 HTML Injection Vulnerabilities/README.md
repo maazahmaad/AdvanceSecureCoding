@@ -97,6 +97,6 @@ Here is a brief explanation of the code:
 
     <p>Explore our secure content and services.</p>
 </body>
-</html>
+</html>```
 
 ## Additional Resources
