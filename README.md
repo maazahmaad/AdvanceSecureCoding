@@ -4,7 +4,7 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Welcome to **AdvanceSecureCoding**! This repository contains daily exercises and resources to enhance your skills in secure coding practices and cybersecurity fundamentals. Join us in strengthening your knowledge and collaborating with a community passionate about cybersecurity.
+Welcome to **AdvanceSecureCoding**! *This repository contains daily exercises and resources to enhance your skills in secure coding practices and cybersecurity fundamentals. Join us in strengthening your knowledge and collaborating with a community passionate about cybersecurity.*
 
 ## Table of Contents
 
