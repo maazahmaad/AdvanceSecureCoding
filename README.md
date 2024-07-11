@@ -43,11 +43,10 @@ Check out our HTML Injection exercises to start practicing.
 
 Here are some valuable resources to complement your learning:
 
-    - [TryHackMe](#https://tryhackme.com/)
-    - [About](#about)
-    OWASP
-    Hack The Box
-    Cybrary
+- [TryHackMe](https://tryhackme.com)
+- [OWASP](https://owasp.org)
+- [Hack The Box](https://www.hackthebox.eu)
+- [Cybrary](https://www.cybrary.it)
 
 Contributing
 
