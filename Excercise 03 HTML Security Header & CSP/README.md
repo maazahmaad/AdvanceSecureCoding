@@ -8,10 +8,6 @@ Welcome to the Secure Coding Exercise on Security Headers. This exercise demonst
 - [Setup](#setup)
 - [Security Headers Implemented](#security-headers-implemented)
 - [Testing](#testing)
-- [Additional Resources](#additional-resources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -38,4 +34,14 @@ The CSP header helps prevent XSS attacks by specifying which sources of content 
 
 ```html
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdnjs.cloudflare.com; style-src 'self' https://fonts.googleapis.com">
+```
+## Testing
+
+To test the exercise:
+
+    Open the HTML File:
+    Open index.html in your web browser.
+
+    Inspect Security Headers:
+    Use browser developer tools to inspect the HTTP response headers and verify the security headers are correctly applied.
 
